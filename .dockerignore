@@ -1,0 +1,16 @@
+.git
+.gitignore
+.results
+scripts
+*Dockerfile*
+node_modules
+.env
+npm-debug.log
+docker-compose*
+.dockerignore
+README.md
+LICENSE
+.vscode
+.next
+*.swp
+/scripts
